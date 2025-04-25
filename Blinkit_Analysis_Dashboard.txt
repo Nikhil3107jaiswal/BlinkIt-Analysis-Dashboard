@@ -1,0 +1,93 @@
+# Blinkit Sales Analysis
+
+## Overview
+This project analyzes Blinkit's sales performance, customer satisfaction, and inventory distribution to uncover insights and optimization opportunities using KPIs and Power BI dashboards.
+
+---
+
+## Problem Statement
+Blinkit wants to enhance its business by analyzing sales trends, product ratings, and outlet performance. The objective is to deliver key KPIs and visual insights to support data-driven decisions.
+
+---
+
+## Tools & Technologies Used
+- Power BI
+- Excel
+- Git & GitHub
+
+---
+
+## Dataset
+Dataset includes:
+- Item types and fat content
+- Sales data including outlet type, size, and location
+- Customer ratings
+
+---
+
+## Approach
+1. Cleaned data in Excel and Python
+2. Performed EDA to identify patterns
+3. Designed calculated columns/measures in Power BI
+4. Built interactive dashboards with slicers and visuals
+5. Highlighted business KPIs
+
+---
+
+## Key KPIs
+- Total Sales: Total revenue generated from all items
+- Average Sales: Average revenue per sale
+- Number of Items: Total count of items sold
+- Average Rating: Customer rating for items sold
+
+---
+
+## Chart Requirements
+
+1. Total Sales by Fat Content
+   - Objective: Analyze the impact of fat content
+   - Chart: Donut Chart
+
+2. Total Sales by Item Type
+   - Objective: Item type-wise sales performance
+   - Chart: Bar Chart
+
+3. Fat Content by Outlet for Total Sales
+   - Objective: Compare outlets by fat content
+   - Chart: Stacked Column Chart
+
+4. Total Sales by Outlet Establishment
+   - Objective: How outlet age/type influences sales
+   - Chart: Line Chart
+
+5. Sales by Outlet Size
+   - Objective: Correlation between size & sales
+   - Chart: Donut/Pie Chart
+
+6. Sales by Outlet Location
+   - Objective: Geographical distribution
+   - Chart: Funnel Map
+
+7. All Metrics by Outlet Type
+   - Objective: Complete metrics breakdown
+   - Chart: Matrix Card
+
+---
+
+## Results
+- Visualized how fat content and item type influence sales
+- Found outlet type and size affect revenue
+- Identified underperforming product categories and regions
+
+
+---
+
+## Learnings
+- Created multi-layered KPI dashboards
+- Used slicers and DAX functions in Power BI
+- Improved storytelling using visual elements
+
+---
+
+## Acknowledgements
+- Dataset from YouTube Channel: Data Tutorials
