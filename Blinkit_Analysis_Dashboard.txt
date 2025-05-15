@@ -26,7 +26,7 @@ Dataset includes:
 ---
 
 ## Approach
-1. Cleaned data in Excel and Python
+1. Cleaned data in Excel
 2. Performed EDA to identify patterns
 3. Designed calculated columns/measures in Power BI
 4. Built interactive dashboards with slicers and visuals
